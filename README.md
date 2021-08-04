@@ -6,7 +6,7 @@
 - line 4
 - line 5
 - line 6
-- line 7
+- line 7 - feature gg-0002
 - lien 8 - ksjdhfgvsdjkgskhshgj
 - feature 003
 - feature GG
