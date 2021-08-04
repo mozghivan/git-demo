@@ -1,2 +1,14 @@
 # git-demo
-Golinskiy Konstantin
+
+- line 1 - main and feature
+- line 2
+- line 3
+- line 4
+- line 5
+- line 6
+- line 7 - feature gg-0002
+- lien 8 - ksjdhfgvsdjkgskhshgj
+- feature 003
+- feature GG
+- some update
+- update
