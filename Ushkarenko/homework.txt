@@ -1,0 +1,3 @@
+This is homework for the third task on Git.
+Homework for the first two tasks you can find on "https://github.com/OleksandrUs/task-1-git".
+Thans you so much!
